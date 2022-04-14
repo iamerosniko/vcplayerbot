@@ -20,14 +20,14 @@ Official Bot : [VCPlayerBot](https://telegram.me/vcplayerbot)   |   Discussion G
 1. Get your telegram API ID and API HASH from my.telegram.org and the BOT TOKEN from [@botfather](https://t.me/botfather)
 2. Generate your telegram session string using the `Run on Repl` button below (Click on run after opening the url below) or use the `generateSession.py` file or read the steps [mentioned here](get_session_string.md).
 
-- [![Run on Repl.it](https://repl.it/badge/github/kshubham506/vcplayerbot)](https://replit.com/@kshubham506/GenerateSession?lite=1&outputonly=1)
+- [![Run on Repl.it](https://repl.it/badge/github/iamerosniko/vcplayerbot)](https://replit.com/@iamerosniko/GenerateSession?lite=1&outputonly=1)
 
 
 3. Click on the `Deploy to Heroku` button below. Fill in the required fields on the website that opens.
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-4. Add the bot to your group and send the [commands](https://github.com/kshubham506/vcplayerbot#features) to start using the VCPlayer Bot :)
+4. Add the bot to your group and send the [commands](https://github.com/iamerosniko/vcplayerbot#features) to start using the VCPlayer Bot :)
 
 
 # Steps To Setup on VPC or Locally
@@ -75,7 +75,7 @@ Command | Description
 </p>
 
 # Developer
-[Shubham Kumar](https://github.com/kshubham506)
+[Shubham Kumar](https://github.com/iamerosniko)
 
 For any issues/questions please contact [here](https://telegram.me/voicechatsupport)
 
