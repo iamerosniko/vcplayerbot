@@ -70,14 +70,14 @@ class Config(metaclass=Singleton):
 
         # number of songs that can be added to queue
         if "PLAYLIST_SIZE" not in self.config or not self.config["PLAYLIST_SIZE"]:
-            self.config["PLAYLIST_SIZE"] = 10
+            self.config["PLAYLIST_SIZE"] = 100
 
         # max duration for any song/video
         if (
             "ALLOWED_SONG_DURATION_IN_SEC" not in self.config
             or not self.config["ALLOWED_SONG_DURATION_IN_SEC"]
         ):
-            self.config["ALLOWED_SONG_DURATION_IN_SEC"] = 13 * 60
+            self.config["ALLOWED_SONG_DURATION_IN_SEC"] = 15 * 60
 
         # readme file/url listing steps to generate session string
         if (
