@@ -44,7 +44,7 @@ class Config(metaclass=Singleton):
 
         ## no need to modify these
         if "BOT_URL" not in self.config or not self.config["BOT_URL"]:
-            self.config["BOT_URL"] = "https://t.me/vcplayerbot"
+            self.config["BOT_URL"] = "https://t.me/musika_amigos_musicbot"
         if "PARENT_URL" not in self.config or not self.config["PARENT_URL"]:
             self.config["PARENT_URL"] = "https://t.me/sktechhub"
         if "SUPPORT_GROUP" not in self.config or not self.config["SUPPORT_GROUP"]:
